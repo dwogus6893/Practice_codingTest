@@ -20,6 +20,6 @@ public class Main {
 				cnt ++;
 			}				
 		}
-		System.out.println(cnt);
+		System.out.println("cnt 갯수는 "+cnt);
 	}
 }
